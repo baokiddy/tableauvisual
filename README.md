@@ -1,4 +1,6 @@
-# Tableau Assignment - Citi Bike Analytics
+# Tableau Analysis - Citi Bike Analytics
+
+Find completed analysis [here](https://public.tableau.com/profile/bella.okiddy4930#!/vizhome/CitibikeAnalysis_15562448940710/CitibikeTripDataAnalysis?publish=yes)
 
 ## Background
 
